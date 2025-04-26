@@ -1,0 +1,18 @@
+WorkWithAllocatorTest.simplePushBack 2 0.00235181
+ExceptionSafetyTest.failesAtConstruct 2 0.00221623
+ExceptionSafetyTest.failesAtPushFront 2 0.0017195
+ExceptionSafetyTest.failesAtPushBack 2 0.00166033
+NamedRequirements.Container 2 0.00167992
+NamedRequirements.AllocatorAwareContainer 2 0.00158852
+NamedRequirements.SequenceContainer 2 0.00154265
+NamedRequirements.ReversibleContainer 2 0.00151131
+NoDefaultConstructible.canConstruct 2 0.00219787
+UnrolledLinkedList.pushBack 2 0.00296948
+UnrolledLinkedList.pushFront 2 0.0025051
+UnrolledLinkedList.pushMixed 2 0.00279475
+UnrolledLinkedList.insertAndPushMixed 2 0.00284567
+UnrolledLinkedList.popFrontBack 2 0.00213475
+InsertTest.InsertMultipleElementsAtEnd 1 0.00546021
+EraseTest.EraseElements 1 0.00486817
+EmptyTest.IsEmpty 1 0.00666142
+---

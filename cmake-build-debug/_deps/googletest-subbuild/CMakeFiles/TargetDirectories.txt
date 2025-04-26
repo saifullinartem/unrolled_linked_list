@@ -1,0 +1,3 @@
+/Users/saifullinartem/labwork7-saifullinartem/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/Users/saifullinartem/labwork7-saifullinartem/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/Users/saifullinartem/labwork7-saifullinartem/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
